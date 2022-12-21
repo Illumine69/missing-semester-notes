@@ -29,7 +29,7 @@ If you haven't watched the missing semester [playlist](https://youtube.com/playl
 
  2. [Ivan-Kim](https://ivan-kim.github.io/MIT-missing-semester/)
 
-## References
+## Reference
 
 1. The official [site](https://missing.csail.mit.edu/) of missing semester
 2. Youtube [Channel](https://www.youtube.com/@MissingSemester)
