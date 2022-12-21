@@ -23,6 +23,12 @@ If you haven't watched the missing semester [playlist](https://youtube.com/playl
 
 [Lecture 9: Security and Cryptography](Lecture_9.md)
 
+## Solutions to Lecture exercises
+
+1. [Ngok-Chao HO](https://hackmd.io/@apad0JTaSjqEjZE4TuX2vQ/r1AhU6bJO)
+
+ 2. [Ivan-Kim](https://ivan-kim.github.io/MIT-missing-semester/)
+
 ## References
 
 1. The official [site](https://missing.csail.mit.edu/) of missing semester
