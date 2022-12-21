@@ -5,3 +5,4 @@ If you haven't watched the missing semester [playlist](https://youtube.com/playl
 
 ---
 
+[Lecture 1: The Shell](Lecture_1.md)
